@@ -50,7 +50,7 @@ Currency-Converter/
 
 * Displays the result with updated flags for both currencies.
 
-# 🧭 Example
+## 🧭 Example
 
 ```
 Input: 1 USD  
@@ -63,7 +63,7 @@ Result shown:
 1 USD = 83.27 INR
 ```
 
-# 📚 Learning Outcomes
+## 📚 Learning Outcomes
 
 * Through this project, you’ll learn:
 
@@ -75,7 +75,8 @@ Result shown:
 
 * Creating a clean and structured web app from scratch
 
-🧑‍💻 Author
+### 🧑‍💻 Author
 
 👤 Dharmesh Panpatil
+
 📍 Built with ❤️ using HTML, CSS & JavaScript
