@@ -94,7 +94,7 @@ Any IDE (e.g., IntelliJ IDEA, Eclipse, VS Code with Java Extension)
 * ❤️ Acknowledgments
 
 
-🧑‍💻 Author
+## 🧑‍💻 Author
 
-Developed by: [Dharmesh panpatil]
+Developed by: Dharmesh panpatil
 
