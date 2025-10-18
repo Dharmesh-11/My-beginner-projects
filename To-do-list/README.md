@@ -25,13 +25,7 @@ It includes **AI-inspired random task generation**, **light/dark themes**, a **p
 - Built-in **task cell rendering** for dynamic styling  
 - Clean UI with **Segoe UI font** and modern layout  
 
----
 
-## 🖥️ Screenshots
-
-| Light Mode | Dark Mode |
-|-------------|------------|
-| ![Light Mode Screenshot](https://via.placeholder.com/400x250?text=Light+Mode) | ![Dark Mode Screenshot](https://via.placeholder.com/400x250?text=Dark+Mode) |
 
 ---
 
@@ -63,8 +57,11 @@ It includes **AI-inspired random task generation**, **light/dark themes**, a **p
 ## 📂 Project Structure
 
 📁 ToDoListApp
+
 ├── ToDoListGUI.java # Main class (contains UI, logic, theme handling)
+
 ├── Task.java # Task model (stores description & completion state)
+
 └── README.md # Project documentation
 
 Step 2: Compile the Code
