@@ -32,6 +32,7 @@ The app also dynamically updates **country flags** based on the selected currenc
 
 Currency-Converter/
 │
+
 ├── index.html # Main web page
 
 ├── style.css # Styling for the app
