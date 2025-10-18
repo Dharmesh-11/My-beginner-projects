@@ -29,16 +29,27 @@ It replicates the design and layout of the Amazon home page, including navigatio
 Amazon-Clone/
 │
 ├── index.html # Main HTML file
+
 ├── style.css # Stylesheet
+
 ├── amazon_logo.png # Amazon logo image
+
 ├── hero_image.jpg # Hero banner image
+
 ├── box1_image.jpg # Product box image 1
+
 ├── box2_image.jpg # Product box image 2
+
 ├── box3_image.jpg # Product box image 3
+
 ├── box4_image.jpg # Product box image 4
+
 ├── box5_image.jpg # Product box image 5
+
 ├── box6_image.jpg # Product box image 6
+
 ├── box7_image.jpg # Product box image 7
+
 └── box8_image.jpg # Product box image 8
 
 
