@@ -1,4 +1,4 @@
-# Beginner Projects 🚀
+# My Beginner Projects 🚀
 
 Welcome to my **Beginner Projects** repository!  
 This repo is a growing collection of small, beginner-friendly programming projects that I’m building and uploading regularly.
