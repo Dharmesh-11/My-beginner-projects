@@ -29,7 +29,7 @@ Play against the computer, see who wins, and track your score — all in real ti
 ## 📂 Folder Structure
 
 Rock-Paper-Scissors/
-│
+
 ├── index.html # Main game page
 
 ├── style.css # Styling for the interface
