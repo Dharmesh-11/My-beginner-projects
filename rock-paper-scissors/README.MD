@@ -31,7 +31,9 @@ Play against the computer, see who wins, and track your score — all in real ti
 Rock-Paper-Scissors/
 │
 ├── index.html # Main game page
+
 ├── style.css # Styling for the interface
+
 └── script.js # Game logic and event handling
 
 ## 🕹️ How It Works
