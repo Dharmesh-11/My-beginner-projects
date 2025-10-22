@@ -28,8 +28,9 @@ Check back often for new uploads and improvements!
 
 ## 🧑‍💻 Author
 
-Dharmesh Panpatil
-GitHub: @Dharmesh-11
+* Dharmesh Panpatil
+
+* GitHub: @Dharmesh-11
 
 ## 🤝 Contributions
 
