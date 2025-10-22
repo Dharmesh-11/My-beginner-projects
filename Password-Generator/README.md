@@ -55,17 +55,6 @@ Password-Generator/
 
 ---
 
-## 📸 Example Screenshot
-```
-+----------------------------------------+
-| Enter Password Length: [    ]          |
-|                                        |
-| [Generate Password]                    |
-|                                        |
-| Your Password: A7b!9KdP                |
-+----------------------------------------+
-```
-
 ---
 
 ## 🧠 Future Enhancements
