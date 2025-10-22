@@ -20,7 +20,7 @@ Check back often for new uploads and improvements!
 ## 💡 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Dharmesh-11/beginner-projects.git
+   git clone https://github.com/Dharmesh-11/My-beginner-projects.git
    ```
 2. Open any project folder in your IDE or editor.
 
