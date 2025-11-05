@@ -82,5 +82,6 @@ bank.db
 - Convert to EXE Installer
 
 ## 👨‍💻 Author
-Your Name Here
+
+Dharmesh Panpatil
 
